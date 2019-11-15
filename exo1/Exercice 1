@@ -1,0 +1,18 @@
+Exercice 1
+Quel résultat produit le programme suivant ?
+ Variables val, double numériques
+
+  
+  Algo_double
+  //BUT: Donner le double 
+  //ENTREE: un nombre
+  //SORTIE: son double 
+
+  Var : val, double
+
+  Début
+  	 Val <- 231 
+  	 Double <- Val * 2 
+  	 Ecrire Val 
+  	 Ecrire Double 
+  Fin<
